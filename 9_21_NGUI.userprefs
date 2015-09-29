@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HP.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MyDragItem.cs" Line="26" Column="22" />
+      <File FileName="Assets/Scripts/CreateSomething.cs" Line="48" Column="3" />
+      <File FileName="Assets/Scripts/SortOut.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Global.cs" Line="17" Column="2" />
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/HP.cs" Line="27" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
